@@ -1,0 +1,6 @@
+{
+  "name": "مفرّغ الصوتيات وخارطة طريق مهندس البرمجيات",
+  "description": "تفريغ صوتي دقيق مع مشغل تفاعلي، ملخص تنفيذي، ودليل مصادر وخارطة طريق لمهندس البرمجيات في عصر الذكاء الاصطناعي.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
